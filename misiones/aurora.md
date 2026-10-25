@@ -11,9 +11,9 @@
 6. Pide una revisión a Órbita; responde y corrige al menos un comentario.
 
 ## Plan de lanzamiento
-- Paso 1: Hacer una revisión detallada de cada una de las funciones físicas de la nave, así como checar la el sistema de seguridad, el cual es sumamente importante por si hay alguna falla. Tener en cuenta que se debe verificar el correcto funcionamiento de los motores.
-- Paso 2: Cargar la gasolina para la nave y prenderla sin despegar aún. Revisar desde la computadora que cada sector de la nave está ejecutándose sin ningún problema y revisar el sistema de navegación.
-- Paso 3: Esperar la confirmación de la trayectoria de despegue para regresar a la tierra de manera segura.
+- Paso 1: Hacer una revisión detallada de cada una de las funciones físicas de la nave, así como checar la el sistema de seguridad, el cual es sumamente importante por si hay alguna falla. Tener en cuenta que se debe verificar el correcto funcionamiento de los motores. En caso de cualquier falla, detener la preparación y avisar al centro de control para esperar instrucciones por parte de este.
+- Paso 2: Cargar la gasolina para la nave y prenderla sin despegar aún. Revisar desde la computadora que cada sector de la nave está ejecutándose sin ningún problema y revisar el sistema de navegación. Si hay alguna anomalía en cualquier sector de la nave, avisar al centro de control y en caso extremo suspender el despegue.
+- Paso 3: Esperar la confirmación de la trayectoria de despegue y la autorización del centro de control. En caso de tener el permiso, despegar al espacio.
 
 ## Pregunta para el otro equipo
 ¿Qué podría salir mal durante el lanzamiento?
