@@ -2,9 +2,9 @@
 
 **Nombre de la misión:** Rescate del repositorio
 
-**ESTADO DE LA MISIÓN: PENDIENTE**
+**ESTADO DE LA MISIÓN: LANZAMIENTO LISTO PARA AURORA**
 
-**Mensaje a la tripulación:** Esperando instrucciones.
+**Mensaje a la tripulación:** Aurora lista para el despegue después de hacer cada uno de los pasos anteriores.
 
 ## Decisiones de los equipos
 
